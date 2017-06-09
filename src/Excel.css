@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fbfbfb;
+}
+
+.wrapper {
+    width: 500px;
+    margin: 10px auto;
+    padding: 20px;
+    border: 1px solid #f1f1f1
+}
+
+.excel-header{
+    background-color: salmon
+}
+
+.excel-data{
+    text-align: center;
+    background-color: skyblue
+}
